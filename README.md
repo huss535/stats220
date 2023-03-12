@@ -10,4 +10,4 @@
 - HTML/CSS
 - R
 ## Website link
-- ![The best webpage on earth](https://huss535.github.io/stats220)
+- [The best webpage on earth](https://huss535.github.io/stats220)
